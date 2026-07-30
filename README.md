@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm **Rabab**, a Mechatronics Engineering graduate with interests in **Embedded Systems, Robotics, IoT, and Intelligent Technologies**.
+I'm **Rabab**, a Mechatronics Engineering graduate passionate about **Embedded Systems** and interested in **IoT** and **Hardware Security**.
 
-I enjoy developing embedded applications that combine software and hardware to solve practical engineering problems. My GitHub showcases Arduino-based projects that demonstrate embedded programming, electronics integration, sensor interfacing, actuator control, and user interface design.
+I enjoy designing embedded applications that integrate hardware and software to solve practical engineering problems. My GitHub showcases Arduino-based projects involving sensor interfacing, actuator control, embedded programming, and user interface design.
 
 ### 🛠️ Technical Skills
 - C++
@@ -18,4 +18,4 @@ I enjoy developing embedded applications that combine software and hardware to s
 - 🌡️ Arduino Temperature Monitoring System
 
 ### 📫 Contact
-📧 **eng.rababalmadi@gmail.com**
+📧 eng.rababalmadi@gmail.com
