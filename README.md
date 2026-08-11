@@ -10,6 +10,7 @@ I enjoy designing embedded applications that integrate hardware and software to 
 - Embedded Systems
 - Electronics
 - MATLAB
+- Python(basics)
 
 ### 📌 Featured Projects
 - 🏧 Arduino ATM System
