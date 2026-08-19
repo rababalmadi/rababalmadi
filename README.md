@@ -15,8 +15,7 @@ I enjoy designing embedded applications that integrate hardware and software to 
 ### 📌 Featured Projects
 - 🏧 Arduino ATM System
 - 🔐 Arduino Smart Door Lock System
-- 🚗 Arduino Parking Sensor System
-- 🌡️ Arduino Temperature Monitoring System
+- Image Steganography Using MATLAB 
 
 ### 📫 Contact
 📧 eng.rababalmadi@gmail.com
