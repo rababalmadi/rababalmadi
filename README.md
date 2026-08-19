@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Rabab**, a Mechatronics Engineering graduate passionate about **Embedded Systems**, **IoT**, **Hardware Security** and interested in **Machine Learning** and **Autonomous Systems**.
+I'm **Rabab**, a Mechatronics Engineering graduate passionate about **Embedded Systems**, **IoT** and **Hardware Security** and interested in **Machine Learning** and **Autonomous Systems**.
 
 I enjoy designing embedded applications that integrate hardware and software to solve practical engineering problems. My GitHub showcases Arduino-based projects involving sensor interfacing, actuator control, embedded programming, and user interface design.
 
