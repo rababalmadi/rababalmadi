@@ -13,8 +13,8 @@ I enjoy designing embedded applications that integrate hardware and software to 
 - Python(basics)
 
 ### 📌 Featured Projects
-- 🏧 Arduino ATM System
-- 🔐 Arduino Smart Door Lock System
+- Arduino ATM System
+- Arduino Smart Door Lock System
 - Image Steganography Using MATLAB 
 
 ### 📫 Contact
